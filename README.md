@@ -40,6 +40,7 @@ Robust architecture and built-in security measures guarantee the integrity and s
 
 Sign up for an 8base account at 8base.com.
 Explore the intuitive visual development environment and experiment with pre-built components.
+https://docs.8base.com/projects/backend/getting-started/quick-start/
 Customize and extend your applications with code, seamlessly integrating it into your workflow.
 Collaborate with stakeholders and iterate on your application until it meets your business objectives.
 Deploy your application on 8base's cloud infrastructure for optimal performance and scalability.
