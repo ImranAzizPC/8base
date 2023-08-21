@@ -6,13 +6,14 @@
 # Features:
 
 - #### Visual Development:
-Leverage an intuitive interface for drag-and-drop visual development, simplifying the creation of user interfaces and workflows.
-Code Customization: Seamlessly integrate custom code to tailor applications to specific requirements, without sacrificing the benefits of low-code development.
+Drag-and-drop visual development, simplifying the creation of user interfaces and workflows.
+- #### Code Customization:
+Seamlessly integrate custom code to tailor applications to specific requirements, without sacrificing the benefits of low-code development.
 
 - #### Pre-built Components:
 Access a library of pre-built components to accelerate development, ranging from UI elements to complex backend services.
 
-- ### Scalable Backend:
+- #### Scalable Backend:
 Utilize robust backend services to manage data, authentication, and business logic, ensuring scalability and reliability.
 
 - #### Collaboration:
