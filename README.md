@@ -28,10 +28,10 @@ Built-in security features, like authentication and authorization, help in maint
 
 # Demos:
 
-Imran: UI Basic App builder. 
-Quick Start: https://docs.8base.com/projects/backend/getting-started/quick-start/![image](https://github.com/ImranAzizPC/8base/assets/133036892/79f7d0b4-e9d9-4ff8-acce-42377a5415d7)
-Walkhrough https://www.youtube.com/watch?v=KRweSm9CwtU
-Build a chat app using code: https://www.8base.com/blog/how-to-build-a-chat-app-in-20-minutes 
+- Imran: UI Basic App builder. 
+- Quick Start: https://docs.8base.com/projects/backend/getting-started/quick-start/![image](https://github.com/ImranAzizPC/8base/assets/133036892/79f7d0b4-e9d9-4ff8-acce-42377a5415d7)
+- Walkhrough https://www.youtube.com/watch?v=KRweSm9CwtU
+- Build a chat app using code: https://www.8base.com/blog/how-to-build-a-chat-app-in-20-minutes 
 
 # Pricing. https://www.8base.com/pricing 
 - #### Free. Build an App
